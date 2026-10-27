@@ -5,7 +5,7 @@
 
 The original Nafas cosmetics store landing page was redesigned using **Tailwind CSS** while preserving its main content, layout structure, and brand identity.
 
-The redesigned page is available in `landingpage-tailwind.html`. The original `landingpage.html` remains unchanged.
+The redesigned page is available in `index.html`. The original `landingpage.html` remains unchanged.
 
 ### Features
 
