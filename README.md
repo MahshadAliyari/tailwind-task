@@ -76,7 +76,11 @@ The generated stylesheet is saved to `css/tailwind.css`.
 
 The Tailwind redesign is maintained separately from the original page to simplify comparison and testing. Dark mode currently uses the `dark` class on the root HTML element; an interactive theme toggle can be implemented separately.
 
-## AI Transparency
+### Demo
+
+
+
+### AI Transparency
 
 - **Section:** Tailwind CSS exercise: understanding utility classes and installing Tailwind.
 - **How I used it:** I first asked the AI to explain the concepts behind Tailwind utility classes, and I studied the explanation. I also asked the AI for help installing and setting up Tailwind in the project.
